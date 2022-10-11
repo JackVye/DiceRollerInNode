@@ -1,0 +1,9 @@
+{
+  "name": "dice-roller-in-node",
+  "version": "0.0.0",
+  "description": "DiceRollerInNode",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
