@@ -1,0 +1,3 @@
+C:\Development\DiceRollerInNode\obj\Debug\DiceRollerInNode.njsproj.CoreCompileInputs.cache
+C:\Development\DiceRollerInNode\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Development\DiceRollerInNode\obj\Debug\DiceRollerInNode.njsproj.AssemblyReference.cache
